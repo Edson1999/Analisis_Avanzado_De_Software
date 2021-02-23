@@ -11,7 +11,7 @@ ___
 ___
 ### Actividades
 ### Blog
-- [Hola Mundo](https://www.webfx.com/tools/emoji-cheat-sheet/)
+- [Hola Mundo]()
 ### Diagrams
 ### Docs
 ### Html
