@@ -1,6 +1,6 @@
 # Analisis Avanzado De Software
 **Portafolio de evidencias**
-![Logo TecNM](https://drive.google.com/file/d/1nqp38UY6iNeOwqjJn4swxPC9DzpeATr3/view?usp=sharing)
+![Logo TecNM](https://www.google.com/url?sa=i&url=http%3A%2F%2Fedistancia.morelia.tecnm.mx%2Fmoodle%2Fmod%2Ffolder%2Fview.php%3Fid%3D2025&psig=AOvVaw3fLatocx3vVLTW4_HqKEWu&ust=1614141373246000&source=images&cd=vfe&ved=0CAYQjRxqFwoTCNCA3quX_-4CFQAAAAAdAAAAABAD)
 ___
 ### Tecnológico Nacional de México
 ### Instituto Tecnológico de Tijuana
