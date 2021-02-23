@@ -10,4 +10,10 @@ ___
 #### Nombre del Maestro: ING. Jaime Leonardo Enriquez Alvarez
 ___
 ### Actividades
-- C0.1 Integrar equipos de trabajo
+### Blog
+- [C0.1 Integrar_equipos_de_trabajo_Ibarra_Barajas_Edson_Paul] ( "C0.1 Integrar equipos de trabajo") 
+### Diagrams
+### Docs
+### Html
+### Img
+### Pdf 
