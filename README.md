@@ -8,4 +8,4 @@ ___
 ### **Datos**
 #### Nombre: Ibarra Barajas Edson Paul
 #### NoControl: 18210488
-#### Nombre del Maestro: 
+#### Nombre del Maestro: ING. Jaime Leonardo Enriquez Alvarez
