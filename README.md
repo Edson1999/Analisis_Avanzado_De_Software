@@ -4,7 +4,7 @@ ___
 #### Tecnológico Nacional de México
 #### Instituto Tecnológico de Tijuana
 ___
-### **Datos**
+### **Datos:mag:**
 #### Nombre: Ibarra Barajas Edson Paul
 #### NoControl: 18210488
 #### Nombre del Maestro: ING. Jaime Leonardo Enriquez Alvarez
@@ -16,4 +16,4 @@ ___
 ### :page_facing_up:Docs
 ### Html
 ### Img
-### Pdf 
+### :page_facing_up:Pdf 
