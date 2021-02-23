@@ -1,9 +1,8 @@
 # Analisis Avanzado De Software
 **Portafolio de evidencias :computer:**
 ___
-![Logo TecNM](https://sii2.matamoros.tecnm.mx/frontend/web/img/header.jpg)
-### Tecnológico Nacional de México
-### Instituto Tecnológico de Tijuana
+#### Tecnológico Nacional de México
+#### Instituto Tecnológico de Tijuana
 ___
 ### **Datos**
 #### Nombre: Ibarra Barajas Edson Paul
