@@ -11,7 +11,7 @@ ___
 ___
 ### Actividades
 ### Blog
-- [C0.1 Integrar_equipos_de_trabajo_Ibarra_Barajas_Edson_Paul] ( "C0.1 Integrar equipos de trabajo") 
+- [C0.1 Integrar equipos de trabajo] ( "C0.1 Integrar equipos de trabajo") 
 ### Diagrams
 ### Docs
 ### Html
