@@ -1,6 +1,6 @@
 # Analisis Avanzado De Software
 **Portafolio de evidencias**
-![Logo TecNM](http://edistancia.morelia.tecnm.mx/moodle/pluginfile.php/13382/mod_folder/content/0/Logo-Oficial-Tecnologico-Nacional-de-Mexico.png?forcedownload=1)
+![Logo TecNM](https://sii2.matamoros.tecnm.mx/frontend/web/img/header.jpg)
 ___
 ### Tecnológico Nacional de México
 ### Instituto Tecnológico de Tijuana
