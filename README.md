@@ -11,7 +11,7 @@ ___
 ___
 ### Actividades
 ### Blog
-- [C0.1 Integrar equipos de trabajo] (https://www.webfx.com/tools/emoji-cheat-sheet/ "C0.1 Integrar equipos de trabajo") 
+- Hola Mundo
 ### Diagrams
 ### Docs
 ### Html
