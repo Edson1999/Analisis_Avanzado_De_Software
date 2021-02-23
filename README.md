@@ -9,7 +9,7 @@ ___
 #### NoControl: 18210488
 #### Nombre del Maestro: ING. Jaime Leonardo Enriquez Alvarez
 ___
-### Actividades
+### atach
 ### Blog
 - [C0.1 Integrar equipos de trabajo](https://github.com/Edson1999/Analisis_Avanzado_De_Software/blob/main/C0.1_IntegrarEquiposdeTrabajo_IbarraBarajasEdsonPaul.pdf)
 ### Diagrams
