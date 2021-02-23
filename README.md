@@ -14,6 +14,6 @@ ___
 - [C0.1 Integrar equipos de trabajo](https://github.com/Edson1999/Analisis_Avanzado_De_Software/blob/main/C0.1_IntegrarEquiposdeTrabajo_IbarraBarajasEdsonPaul.pdf)
 ### Diagrams
 ### :page_facing_up:Docs
-### Html
-### Img
+### :globe_with_meridians:Html
+### :camera:Img
 ### :page_facing_up:Pdf 
