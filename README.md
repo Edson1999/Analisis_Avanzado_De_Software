@@ -16,4 +16,4 @@ ___
 ### :page_facing_up:Docs
 ### :globe_with_meridians:Html
 ### :camera:Img
-### :page_facing_up:Pdf 
+### :clipboard:Pdf 
