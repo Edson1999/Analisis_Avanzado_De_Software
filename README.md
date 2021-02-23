@@ -11,7 +11,7 @@ ___
 ___
 ### Actividades
 ### Blog
-- [Hola Mundo]()
+- [C0.1 Integrar equipos de trabajo](https://github.com/Edson1999/Analisis_Avanzado_De_Software/blob/main/C0.1_IntegrarEquiposdeTrabajo_IbarraBarajasEdsonPaul.pdf)
 ### Diagrams
 ### Docs
 ### Html
