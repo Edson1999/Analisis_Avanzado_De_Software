@@ -7,6 +7,7 @@ ___
 ### **Datos:mag:**
 #### Nombre: Ibarra Barajas Edson Paul
 #### NoControl: 18210488
+#### Nombre del Equipo: Perseverance 🤘
 #### Nombre del Maestro: ING. Jaime Leonardo Enriquez Alvarez
 ___
 ### :pencil2:atach
