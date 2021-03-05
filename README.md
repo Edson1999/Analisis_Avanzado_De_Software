@@ -14,7 +14,7 @@ ___
 ### :memo:Blog
 - [C0.1 Integrar equipos de trabajo](https://github.com/Edson1999/Analisis_Avanzado_De_Software/blob/main/Blog/C0.1_IntegrarEquiposdeTrabajo_IbarraBarajasEdsonPaul.pdf)
 - [C0.2 Tipo de sistema de información](https://github.com/Edson1999/Analisis_Avanzado_De_Software/blob/main/Blog/C0.2_Tipo_de_Sistema_Desarrollar_IbarraBarajasEdsonPaul.pdf)
-- [C0.3 Diagrama de flujo del proceso](https://github.com/Edson1999/Analisis_Avanzado_De_Software/blob/main/Blog/C0.3_DiagramadeFlujo_Proceso_IbarraBarajasEdsonPaul.pdf)
+- [C0.3 Diagrama de flujo del proceso]()
 ### Diagrams
 ### :page_facing_up:Docs
 ### :globe_with_meridians:Html
