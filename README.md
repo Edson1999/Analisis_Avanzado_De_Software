@@ -15,7 +15,7 @@ ___
 - [C0.1 Integrar equipos de trabajo](https://github.com/Edson1999/Analisis_Avanzado_De_Software/blob/main/Blog/C0.1_IntegrarEquiposdeTrabajo_IbarraBarajasEdsonPaul.pdf)
 - [C0.2 Tipo de sistema de información](https://github.com/Edson1999/Analisis_Avanzado_De_Software/blob/main/Blog/C0.2_Tipo_de_Sistema_Desarrollar_IbarraBarajasEdsonPaul.pdf)
 - [C0.3 Diagrama de flujo del proceso](https://github.com/Edson1999/Analisis_Avanzado_De_Software/blob/main/Blog/C0.3_DiagramadeFlujo_Proceso_IbarraBarajasEdsonPaul.pdf)
-- [A0.1 Recopilación de datos por medio de la entrevista](https://github.com/Edson1999/Analisis_Avanzado_De_Software/blob/main/Blog/A0.1_Recopilacion_Entrevista_IbarraBarajasEdsonPaul.pdf)
+- [A0.1 Recopilación de datos por medio de la entrevista](https://github.com/Edson1999/Analisis_Avanzado_De_Software/blob/main/Blog/A0.1_Interview_Compilation_IbarraBarajasEdsonPaul.pdf)
 ### Diagrams
 ### :page_facing_up:Docs
 ### :globe_with_meridians:Html
