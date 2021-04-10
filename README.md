@@ -18,6 +18,7 @@ ___
 - [A0.1 Recopilación de datos por medio de la entrevista](https://github.com/Edson1999/Analisis_Avanzado_De_Software/blob/main/Blog/A0.1_Interview_Compilation_IbarraBarajasEdsonPaul.pdf)
 - [C1.1 Definición de Objetivo general y los especificos, asi como el modelado del negocio.](https://github.com/Edson1999/Analisis_Avanzado_De_Software/blob/main/Blog/C1.1%20Definici%C3%B3n_de_Onjetivo_general_y_los_especificos%2C_asi_como_el_modelado_del_negocio_IbarraBarajasEdsonPaul.pdf)
 - [C1.2 Elaboracion del acta constitutiva del proyecto](https://github.com/Edson1999/Analisis_Avanzado_De_Software/blob/main/Blog/C1.2%20Elaboracion_del_acta_constitutiva_del_proyecto_IbarraBarajasEdsonPaul.pdf)
+- [C1.3 Requisitos del sistema para el caso de estudio]()
 ### Diagrams
 ### :page_facing_up:Docs
 ### :globe_with_meridians:Html
