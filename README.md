@@ -19,7 +19,7 @@ ___
 - [C1.1 Definición de Objetivo general y los especificos, asi como el modelado del negocio.](https://github.com/Edson1999/Analisis_Avanzado_De_Software/blob/main/Blog/C1.1%20Definici%C3%B3n_de_Onjetivo_general_y_los_especificos%2C_asi_como_el_modelado_del_negocio_IbarraBarajasEdsonPaul.pdf)
 - [C1.2 Elaboracion del acta constitutiva del proyecto](https://github.com/Edson1999/Analisis_Avanzado_De_Software/blob/main/Blog/C1.2%20Elaboracion_del_acta_constitutiva_del_proyecto_IbarraBarajasEdsonPaul.pdf)
 - [C1.3 Requisitos del sistema para el caso de estudio](https://github.com/Edson1999/Analisis_Avanzado_De_Software/blob/main/Blog/C1.3%20Requisitos_del_sistema_para_el_caso_de_estudio_IbarraBarajasEdsonPaul.pdf)
-- [A1.0 Consolidacion del acta constitutiva]()
+- [A1.0 Consolidacion del acta constitutiva](https://github.com/Edson1999/Analisis_Avanzado_De_Software/blob/main/Blog/A0.1_Consolidation_of_the_Constitutive_Act_IbarraBarajasEdsonPaul.pdf)
 ### Diagrams
 ### :page_facing_up:Docs
 ### :globe_with_meridians:Html
