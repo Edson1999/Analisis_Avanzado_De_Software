@@ -20,7 +20,7 @@ ___
 - [C1.2 Elaboracion del acta constitutiva del proyecto](https://github.com/Edson1999/Analisis_Avanzado_De_Software/blob/main/Blog/C1.2%20Elaboracion_del_acta_constitutiva_del_proyecto_IbarraBarajasEdsonPaul.pdf)
 - [C1.3 Requisitos del sistema para el caso de estudio](https://github.com/Edson1999/Analisis_Avanzado_De_Software/blob/main/Blog/C1.3%20Requisitos_del_sistema_para_el_caso_de_estudio_IbarraBarajasEdsonPaul.pdf)
 - [A1.0 Consolidacion del acta constitutiva](https://github.com/Edson1999/Analisis_Avanzado_De_Software/blob/main/Blog/A1.0_Consolidation_of_the_Constitutive_Act_IbarraBarajasEdsonPaul.pdf)
-- [C1.4 Modelado de requisitos a través de diagramas de comportamiento] (https://github.com/Edson1999/Analisis_Avanzado_De_Software/blob/main/Blog/C1.4%20UML_Casos_de_uso_secuencia_clases_IbarraBarajasEdsonPaul.pdf)
+- [Hola]
 ### Diagrams
 ### :page_facing_up:Docs
 ### :globe_with_meridians:Html
