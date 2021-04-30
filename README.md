@@ -22,6 +22,7 @@ ___
 - [A1.0 Consolidacion del acta constitutiva](https://github.com/Edson1999/Analisis_Avanzado_De_Software/blob/main/Blog/A1.0_Consolidation_of_the_Constitutive_Act_IbarraBarajasEdsonPaul.pdf)
 - [C1.4 Modelado de requisitos a través de diagramas de comportamiento](https://github.com/Edson1999/Analisis_Avanzado_De_Software/blob/main/Blog/C1.4%20UML_Casos_de_uso_secuencia_clases_IbarraBarajasEdsonPaul.pdf)
 - [C1.5  Modelado de requisitos a través de diagramas estructurados](https://github.com/Edson1999/Analisis_Avanzado_De_Software/blob/main/Blog/C1.5%20UML_Estado_componentes_distribucion_IbarraBarajasEdsonPaul.pdf)
+- [A1.1  Modelado de requisitos a través de diagramas UML]()
 ### Diagrams
 ### :page_facing_up:Docs
 ### :globe_with_meridians:Html
