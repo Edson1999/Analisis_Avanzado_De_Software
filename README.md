@@ -25,7 +25,7 @@ ___
 - [A1.1  Modelado de requisitos a través de diagramas UML](https://github.com/Edson1999/Analisis_Avanzado_De_Software/blob/main/Blog/A1.1_Modelingrequirements_UML_IbarraBarajasEdsonPaul.pdf)
 - [C2.1 Especificación de Requerimientos Funcionales](https://github.com/Edson1999/Analisis_Avanzado_De_Software/blob/main/Blog/C2.1_Especificaci%C3%B3n_de_Requerimientos_Funcionales_IbarraBarajasEdsonPaul.pdf)
 - [A2.1 Especificación de requisitos y documentación](https://github.com/Edson1999/Analisis_Avanzado_De_Software/blob/main/Blog/A2.1_Specification_of_requirements_and_documentation_IbarraBarajasEdsonPaul.pdf)
-- [A2.2 Diseño de la arquitectura 4+1](https://www.soy502.com/sites/default/files/styles/full_node/public/2018/Mar/08/screen_shot_2018-03-08_at_7.31.17_am.png)
+- [A2.2 Diseño de la arquitectura 4+1](https://github.com/Edson1999/Analisis_Avanzado_De_Software/blob/main/Blog/A2.2_Architecture_Design_4%2B1_IbarraBarajasEdsonPaul.pdf)
 ### Diagrams
 ### :page_facing_up:Docs
 ### :globe_with_meridians:Html
