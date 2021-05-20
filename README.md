@@ -32,7 +32,7 @@ ___
 ### Unidad III
 - [🏆 C2.1 Especificación de Requerimientos Funcionales](https://github.com/Edson1999/Analisis_Avanzado_De_Software/blob/main/Blog/C2.1_Especificaci%C3%B3n_de_Requerimientos_Funcionales_IbarraBarajasEdsonPaul.pdf)
 - [💣 A2.1 Especificación de requisitos y documentación](https://github.com/Edson1999/Analisis_Avanzado_De_Software/blob/main/Blog/A2.1_Specification_of_requirements_and_documentation_IbarraBarajasEdsonPaul.pdf)
-- [💣 A2.2 Diseño de la arquitectura 4+1](https://github.com/Edson1999/Analisis_Avanzado_De_Software/blob/main/Blog/A2.2_Architecture_Design_4%2B1_IbarraBarajasEdsonPaul.pdf)
+- [💣 A2.2 Diseño de la arquitectura 4+1]()
 - [💣 A2.3 Patrones de arquitectura de software]()
 ### Diagrams
 ### :page_facing_up:Docs
