@@ -34,6 +34,9 @@ ___
 - [💣 A2.1 Especificación de requisitos y documentación](https://github.com/Edson1999/Analisis_Avanzado_De_Software/blob/main/Blog/A2.1_Specification_of_requirements_and_documentation_IbarraBarajasEdsonPaul.pdf)
 - [💣 A2.2 Diseño de la arquitectura 4+1](https://github.com/Edson1999/Analisis_Avanzado_De_Software/blob/main/Blog/A2.2_Architecture_Design_4%2B1_IbarraBarajasEdsonPaul.pdf)
 - [💣 A2.3 Patrones de arquitectura de software](https://github.com/Edson1999/Analisis_Avanzado_De_Software/blob/main/Blog/%F0%9F%92%A3%20A2.3_Software_Architecture_patterns_IbarraBarajasEdsonPaul.pdf)
+
+### Unidad IV
+- [💣 A3.1 Fase inicio Scrum: Declaracion de vision del proyecto]()
 ### Diagrams
 ### :page_facing_up:Docs
 ### :globe_with_meridians:Html
