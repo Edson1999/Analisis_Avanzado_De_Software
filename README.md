@@ -36,7 +36,7 @@ ___
 - [💣 A2.3 Patrones de arquitectura de software](https://github.com/Edson1999/Analisis_Avanzado_De_Software/blob/main/Blog/%F0%9F%92%A3%20A2.3_Software_Architecture_patterns_IbarraBarajasEdsonPaul.pdf)
 
 ### Unidad IV
-- [💣 A3.1 Fase inicio Scrum: Declaracion de vision del proyecto]()
+- [💣 A3.1 Fase inicio Scrum: Declaracion de vision del proyecto](https://github.com/Edson1999/Analisis_Avanzado_De_Software/blob/main/Blog/A3.1_Scrum_documentation_start_phase_IbarraBarajasEdsonPaul.pdf)
 ### Diagrams
 ### :page_facing_up:Docs
 ### :globe_with_meridians:Html
