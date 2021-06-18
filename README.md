@@ -39,6 +39,7 @@ ___
 - [💣 A3.1 Fase inicio Scrum: Declaración de visión del proyecto](https://github.com/Edson1999/Analisis_Avanzado_De_Software/blob/main/Blog/A3.1_Scrum_documentation_start_phase_IbarraBarajasEdsonPaul.pdf)
 - [💣 A3.2 Fase inicio: Artefactos](https://github.com/Edson1999/Analisis_Avanzado_De_Software/blob/main/Blog/%F0%9F%92%A3A3.2_Startphase_and_your_artifacts_IbarraBarajasEdsonPaul.pdf)
 - [💣 A3.3 Arquitectura de software a traves del Modelo C4](https://github.com/Edson1999/Analisis_Avanzado_De_Software/blob/main/Blog/%F0%9F%92%A3%20A3.3_Architecture_usingModelC4_IbarraBarajasEdsonPaul.pdf)
+- [💣 A3.4  Fase planificacion y estimacion: Artefactos]()
 ### Diagrams
 ### :page_facing_up:Docs
 ### :globe_with_meridians:Html
